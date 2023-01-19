@@ -1,0 +1,17 @@
+D:\coftclub\C#\week6\16.01.23\HomeWork Contactdb\infrastruvture\bin\Debug\net7.0\infrastruvture.deps.json
+D:\coftclub\C#\week6\16.01.23\HomeWork Contactdb\infrastruvture\bin\Debug\net7.0\infrastruvture.runtimeconfig.json
+D:\coftclub\C#\week6\16.01.23\HomeWork Contactdb\infrastruvture\bin\Debug\net7.0\infrastruvture.dll
+D:\coftclub\C#\week6\16.01.23\HomeWork Contactdb\infrastruvture\bin\Debug\net7.0\infrastruvture.pdb
+D:\coftclub\C#\week6\16.01.23\HomeWork Contactdb\infrastruvture\bin\Debug\net7.0\Domain.dll
+D:\coftclub\C#\week6\16.01.23\HomeWork Contactdb\infrastruvture\bin\Debug\net7.0\Domain.pdb
+D:\coftclub\C#\week6\16.01.23\HomeWork Contactdb\infrastruvture\obj\Debug\net7.0\infrastruvture.csproj.AssemblyReference.cache
+D:\coftclub\C#\week6\16.01.23\HomeWork Contactdb\infrastruvture\obj\Debug\net7.0\infrastruvture.GeneratedMSBuildEditorConfig.editorconfig
+D:\coftclub\C#\week6\16.01.23\HomeWork Contactdb\infrastruvture\obj\Debug\net7.0\infrastruvture.AssemblyInfoInputs.cache
+D:\coftclub\C#\week6\16.01.23\HomeWork Contactdb\infrastruvture\obj\Debug\net7.0\infrastruvture.AssemblyInfo.cs
+D:\coftclub\C#\week6\16.01.23\HomeWork Contactdb\infrastruvture\obj\Debug\net7.0\infrastruvture.csproj.CoreCompileInputs.cache
+D:\coftclub\C#\week6\16.01.23\HomeWork Contactdb\infrastruvture\obj\Debug\net7.0\infrastruvture.csproj.CopyComplete
+D:\coftclub\C#\week6\16.01.23\HomeWork Contactdb\infrastruvture\obj\Debug\net7.0\infrastruvture.dll
+D:\coftclub\C#\week6\16.01.23\HomeWork Contactdb\infrastruvture\obj\Debug\net7.0\refint\infrastruvture.dll
+D:\coftclub\C#\week6\16.01.23\HomeWork Contactdb\infrastruvture\obj\Debug\net7.0\infrastruvture.pdb
+D:\coftclub\C#\week6\16.01.23\HomeWork Contactdb\infrastruvture\obj\Debug\net7.0\infrastruvture.genruntimeconfig.cache
+D:\coftclub\C#\week6\16.01.23\HomeWork Contactdb\infrastruvture\obj\Debug\net7.0\ref\infrastruvture.dll
